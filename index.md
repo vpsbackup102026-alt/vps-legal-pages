@@ -16,4 +16,4 @@ This application is a personal-use tool that:
 
 ## Contact
 
-For any questions, please contact: YOUR_EMAIL@gmail.com
+For any questions, please contact: vpsbackup102026@gmail.com
